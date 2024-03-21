@@ -1,3 +1,5 @@
+Here is solution of team rednext of the first stage. In first solution the accuracy was a bit more than 50%, so we tuned it to be more than 93%. Files starting with “basic” are first stage, my_model_merged… and fine-tuned are the second one
+
 # <p align="center"> A Land of Opportunities: Tackling Wildfire Land Degradation in Brazil with the G20 Global Land Initiative and the Universitat Politècnica de Catalunya </p>
 
 ## <p align="center"> Case Introduction </p>
@@ -6,7 +8,7 @@
 
 **The G20 Global Land Initiative**
 
-The G20 Global Land Initiative at the United Nations Convention to Combat Desertification was launched during the Saudi Arabia G20 Presidency, and it has as ambition to achieve a 50 per cent reduction in degraded land worldwide by 2040. To inspire all stakeholders to collectively deliver on land conservation and restoration outcomes: we showcase success stories; engage the private sector; empower civil society and the public; and share knowledge to build capacity among G20 members as well as interested non-member countries and other stakeholders. 
+The G20 Global Land Initiative at the United Nations Convention to Combat Desertification was launched during the Saudi Arabia G20 Presidency, and it has as ambition to achieve a 50 per cent reduction in degraded land worldwide by 2040. To inspire all stakeholders to collectively deliver on land conservation and restoration outcomes: we showcase success stories; engage the private sector; empower civil society and the public; and share knowledge to build capacity among G20 members as well as interested non-member countries and other stakeholders.
 
 **The Universitat Politècnica de Catalunya (UPC)**
 
@@ -48,7 +50,7 @@ What is the problem to be solved? Which outcome is expected as a final product? 
 
 ### C. Who are the users of this solution?
 Main user: Government of Brazil
-Potential sub users: Entrepreneurs, Environmental Agencies, firefighters, General Public, and residents living near the affected areas. 
+Potential sub users: Entrepreneurs, Environmental Agencies, firefighters, General Public, and residents living near the affected areas.
 
 
 
@@ -80,7 +82,7 @@ Potential sub users: Entrepreneurs, Environmental Agencies, firefighters, Genera
 - **Alignment with Evaluation Criteria:** Ensure the presentation addresses all evaluation criteria, emphasizing innovation, technical proficiency, feasibility, impact, creativity, and alignment with the given problem statement.
 
 
-## <p align="center"> Hackathon Challenges: </p> 
+## <p align="center"> Hackathon Challenges: </p>
 
 In order to encourage innovation and skill enhancement among participating teams, the hackathon is structured in 3 phases:
 
@@ -127,7 +129,7 @@ Taks 2: The resources and the recommdended library are publicly available throug
 
 ### Third Task: Vizualisation product
 
-The hack teams need to prepare and present the pitch to convince the Government of Brazil representatives on the importance of this issue of land restoration and propose innovative visualization solutions to prevent and halt land degradation caused by wildfires. 
+The hack teams need to prepare and present the pitch to convince the Government of Brazil representatives on the importance of this issue of land restoration and propose innovative visualization solutions to prevent and halt land degradation caused by wildfires.
 We envision a tech innovative solution that is interactive and user friendly. Showcasing the data and providing the key highlights of the problem of wildfire in brazil. Examples of products include: app, platforms, website, dashboard.
 
 ## <p align="center"> Technology: </p>
@@ -200,18 +202,18 @@ We wish all teams the best of luck and look forward to your innovative solutions
 
 ## <p align="center"> Point of Contact: </p>
 
-<p align="left"> For data inquiries : 
-  
+<p align="left"> For data inquiries :
+
 - Ismail El Madafri, a PhD candidate in Sustainability at the Universitat Politècnica de Catalunya (UPC), Spain, ismail.el.madafri@upc.edu
-  
+
 - Devashree Niraula, Research and Outreach Specialist,G20 Global Land Initiative, UNCCD, dniraula@unccd.int </p>
-<p align="left"> For visualization, end product, hack case context inquiries: 
-  
+<p align="left"> For visualization, end product, hack case context inquiries:
+
 - Paula Padrino Vilela, Programme Officer, G20 Global Land Initiative, UNCCD, pvilela@unccd.int
-  
+
 - Song Kim, Communications Coordinator, G20 Global Land Initiative, UNCCD, songkim2050@gmail.com </p>
 
 
 ## <p align="center"> Prize - the winning team members will each receive: </p>
 
-Winning teams will be awarded with a DJI Mini 2 SE Drone per team along with exclusive G20 GLI polo shirts, caps, water bottles, USB drives, notebooks, and magnets adorned with G20 GLI branding. 
+Winning teams will be awarded with a DJI Mini 2 SE Drone per team along with exclusive G20 GLI polo shirts, caps, water bottles, USB drives, notebooks, and magnets adorned with G20 GLI branding.
